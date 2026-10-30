@@ -1,0 +1,651 @@
+Student_ID,Name,Gender,Branch,CGPA,Coding_Score,Aptitude_Score,Soft_Skills_Score,Internships,Projects_Count,Certifications_Count,Backlogs,Workshops_Attended,Hackathons_Attended,Placement_Status,Salary_Package_LPA
+STU202401,Deepa Sharma,Male,Computer Science,6.06,40.3,46.2,70.9,2,1,0,0,2,0,Placed,6.49
+STU202402,Harsh Bhat,Male,Computer Science,8.29,69.3,79.3,54.5,3,4,4,0,1,3,Placed,28.52
+STU202403,Sameer Saxena,Female,Electronics & Comm,6.62,50.1,48.0,60.4,1,2,2,0,4,2,Placed,8.72
+STU202404,Nikhil Mehta,Female,Information Technology,6.42,53.9,54.6,54.7,2,4,2,0,3,1,Placed,15.02
+STU202405,Varun Gupta,Male,Computer Science,7.3,59.2,69.5,81.6,2,3,2,1,5,2,Placed,20.84
+STU202406,Varun Kapoor,Male,Mechanical,8.24,67.4,69.8,63.9,1,4,3,0,5,2,Placed,18.66
+STU202407,Chetan Bose,Male,Electrical & Electronics,8.79,64.6,78.1,66.9,2,4,3,0,2,3,Placed,27.28
+STU202408,Bhavna Patil,Female,Electrical & Electronics,6.82,54.8,46.9,77.9,1,1,1,3,4,0,Not Placed,0.0
+STU202409,Arjun Joshi,Male,Information Technology,8.66,77.1,91.3,87.3,3,4,3,0,2,2,Placed,29.58
+STU202410,Vikas Nair,Female,Electrical & Electronics,6.51,55.9,60.6,62.1,1,1,3,0,3,1,Placed,11.63
+STU202411,Varun Nair,Male,Information Technology,9.66,95.4,77.3,91.0,3,4,3,0,4,3,Placed,38.36
+STU202412,Aarav Deshmukh,Male,Mechanical,7.97,58.4,70.4,43.2,2,3,2,0,4,2,Placed,17.0
+STU202413,Harsh Verma,Other,Computer Science,6.43,48.3,46.7,72.7,1,1,0,0,2,1,Placed,10.53
+STU202414,Nikhil Singh,Female,Computer Science,6.9,45.4,55.2,67.8,1,2,2,1,2,1,Placed,11.0
+STU202415,Rahul Agarwal,Other,Computer Science,9.53,86.2,,55.0,2,3,4,0,3,3,Placed,35.08
+STU202416,Ananya Patil,Female,Electrical & Electronics,7.4,60.8,57.1,92.0,1,2,1,0,4,2,Placed,15.57
+STU202417,Rahul Kulkarni,Male,Electrical & Electronics,8.46,75.7,70.8,,3,5,4,0,2,1,Placed,25.64
+STU202418,Rohan Bhat,Female,Computer Science,8.84,84.5,87.1,41.3,3,5,4,0,3,4,Placed,36.07
+STU202419,Rohan Sharma,Male,Electrical & Electronics,7.2,38.1,61.9,46.4,2,2,2,0,4,1,Placed,9.08
+STU202420,Kavya Kulkarni,Female,Computer Science,8.44,70.3,75.1,62.1,3,4,3,0,2,1,Placed,25.53
+STU202421,Aarav Choudhury,Male,Computer Science,8.53,75.2,74.1,83.7,4,4,3,0,5,2,Placed,33.31
+STU202422,Nikhil Ghosh,Male,Computer Science,7.47,64.6,61.3,40.3,3,2,1,0,1,2,Placed,23.41
+STU202423,Varun Verma,Other,Computer Science,7.23,53.7,58.8,,1,2,1,1,5,2,Placed,14.84
+STU202424,Vikas Rao,Male,Electronics & Comm,8.83,76.5,76.2,44.4,4,5,4,0,4,3,Placed,31.3
+STU202425,Siddharth Verma,Female,Electrical & Electronics,7.74,52.3,71.9,86.0,1,2,3,0,4,0,Placed,13.46
+STU202426,Aditi Deshmukh,Male,Electronics & Comm,7.81,57.9,,44.6,1,1,3,1,2,2,Placed,15.1
+STU202427,Sanjay Singh,Female,Computer Science,8.46,71.1,64.2,81.5,3,3,3,0,2,2,Placed,26.84
+STU202428,Manish Rao,Male,Electronics & Comm,6.07,40.0,37.0,61.8,0,1,1,0,0,0,Not Placed,0.0
+STU202429,Rahul Ghosh,Other,Electrical & Electronics,9.39,86.6,89.9,63.1,3,4,4,0,4,2,Placed,34.0
+STU202430,Pranay Agarwal,Other,Electronics & Comm,7.01,62.2,60.1,64.8,2,1,2,0,3,1,Placed,15.33
+STU202431,Manish Kulkarni,Male,Computer Science,8.19,62.2,68.6,83.6,2,4,3,0,5,2,Placed,21.05
+STU202432,Sakshi Bhat,Other,Computer Science,9.04,78.6,83.2,69.5,3,3,3,0,5,3,Placed,33.45
+STU202433,Priya Reddy,Female,Computer Science,6.92,51.1,62.5,81.4,1,2,2,0,2,1,Placed,12.42
+STU202434,Vikas Reddy,Male,Information Technology,8.23,65.3,70.3,94.7,3,4,2,0,2,1,Placed,22.78
+STU202435,Tanvi Choudhury,Other,Mechanical,7.17,51.5,54.5,49.6,1,2,2,0,2,0,Placed,9.83
+STU202436,Priya Rao,Male,Electronics & Comm,7.91,66.3,66.6,49.1,2,4,2,1,1,2,Placed,21.19
+STU202437,Shreya Singh,Other,Information Technology,6.22,42.5,41.9,72.3,0,3,1,0,1,1,Not Placed,0.0
+STU202438,Vikas Kapoor,Female,Mechanical,6.8,49.2,45.0,58.1,0,1,1,0,4,2,Not Placed,0.0
+STU202439,Akhil Rao,Male,Computer Science,8.04,60.3,60.9,59.9,2,3,1,0,5,2,Placed,21.04
+STU202440,Yash Reddy,Male,Mechanical,9.03,76.9,80.8,94.6,3,4,4,0,4,3,Placed,30.97
+STU202441,Pranay Bhat,Female,Mechanical,6.65,58.0,60.3,62.8,3,3,2,1,2,2,Placed,18.67
+STU202442,Yash Gupta,Female,Information Technology,6.82,59.3,68.6,71.4,2,4,3,0,3,2,Placed,19.97
+STU202443,Gaurav Malhotra,Male,Computer Science,8.08,66.2,80.0,44.1,1,3,2,0,1,1,Placed,22.08
+STU202444,Sanjay Joshi,Female,Electrical & Electronics,7.59,62.7,63.4,64.4,2,2,4,0,3,2,Placed,20.02
+STU202445,Nikhil Kapoor,Female,Information Technology,6.3,39.7,45.3,40.5,1,2,0,1,3,1,Not Placed,0.0
+STU202446,Sakshi Saxena,Male,Electronics & Comm,7.86,71.4,73.2,93.8,2,3,2,0,1,1,Placed,23.3
+STU202447,Priya Nair,Other,Electrical & Electronics,7.38,62.0,63.5,45.3,2,3,2,0,3,2,Placed,17.95
+STU202448,Priya Joshi,Female,Computer Science,5.59,43.1,41.8,58.6,0,2,2,1,3,1,Not Placed,0.0
+STU202449,Sameer Patil,Female,Computer Science,6.74,52.9,64.6,41.4,2,3,1,1,0,2,Placed,15.51
+STU202450,Rahul Bose,Female,Computer Science,7.03,55.9,54.4,72.3,2,1,1,1,4,1,Placed,16.65
+STU202451,Akhil Kulkarni,Female,Information Technology,6.18,48.8,57.4,65.0,2,1,0,0,2,1,Placed,11.9
+STU202452,Manish Patil,Other,Computer Science,7.61,69.4,63.2,48.0,2,3,2,1,1,2,Placed,23.25
+STU202453,Nikhil Saxena,Male,Computer Science,7.68,60.1,56.0,52.2,1,1,1,0,2,2,Placed,13.88
+STU202454,Ananya Malhotra,Female,Information Technology,6.91,50.3,55.2,74.3,0,1,1,0,2,2,Placed,10.92
+STU202455,Chetan Reddy,Other,Electronics & Comm,7.41,65.5,59.3,60.6,2,4,4,0,1,3,Placed,18.69
+STU202456,Sameer Gupta,Other,Computer Science,7.08,52.4,53.9,55.8,1,2,1,0,3,1,Placed,12.45
+STU202457,Sameer Reddy,Male,Information Technology,8.96,71.7,75.1,49.9,2,3,2,0,2,2,Placed,25.81
+STU202458,Gaurav Bose,Male,Computer Science,7.73,60.3,81.7,72.8,2,3,2,0,1,2,Placed,24.05
+STU202459,Yash Agarwal,Female,Information Technology,7.18,52.7,60.8,94.1,2,3,2,0,2,2,Placed,16.53
+STU202460,Yash Bhat,Female,Computer Science,7.78,55.4,71.3,64.0,2,3,2,0,4,2,Placed,18.56
+STU202461,Deepa Deshmukh,Male,Mechanical,6.68,56.3,50.4,44.3,2,3,1,0,0,1,Placed,11.95
+STU202462,Kavya Kulkarni,Male,Electronics & Comm,8.97,83.6,91.6,81.8,3,4,,0,5,2,Placed,31.64
+STU202463,Rhea Bose,Male,Computer Science,7.17,52.3,52.2,85.7,1,3,2,0,4,2,Placed,12.13
+STU202464,Akhil Rao,Other,Electronics & Comm,8.65,80.9,83.0,58.9,2,3,3,0,4,2,Placed,28.3
+STU202465,Harsh Kulkarni,Male,Mechanical,6.87,60.2,58.1,93.0,3,2,1,0,2,2,Placed,17.95
+STU202466,Shreya Gupta,Other,Electronics & Comm,6.6,37.3,31.3,94.8,1,1,1,0,0,0,Not Placed,0.0
+STU202467,Manish Joshi,Female,Computer Science,7.35,48.7,58.1,88.2,1,2,2,0,4,2,Placed,12.67
+STU202468,Tanvi Verma,Female,Information Technology,7.97,62.7,70.5,83.1,4,3,2,0,4,1,Placed,24.01
+STU202469,Sanjay Kapoor,Other,Information Technology,6.6,42.0,51.5,91.4,1,1,,0,1,1,Placed,10.4
+STU202470,Gaurav Bhat,Male,Mechanical,7.78,60.8,68.2,41.6,2,4,1,0,1,1,Placed,20.51
+STU202471,Vikas Gupta,Female,Information Technology,7.16,56.1,59.9,56.6,2,2,2,0,0,1,Placed,14.78
+STU202472,Aditi Bose,Other,Information Technology,7.81,62.4,61.3,69.9,3,3,2,0,1,3,Placed,22.06
+STU202473,Pooja Sharma,Male,Electronics & Comm,6.25,52.5,58.6,70.0,2,2,2,0,3,1,Placed,10.07
+STU202474,Arjun Rao,Male,Computer Science,6.94,65.9,66.1,81.4,2,3,3,0,3,2,Placed,20.26
+STU202475,Sneha Deshmukh,Female,Electrical & Electronics,8.06,50.7,61.8,80.0,2,3,2,1,3,1,Placed,15.46
+STU202476,Priya Choudhury,Female,Electronics & Comm,8.14,62.9,74.3,93.9,2,3,2,0,2,1,Placed,20.52
+STU202477,Tanvi Verma,Female,Computer Science,8.53,69.9,73.0,92.2,2,5,2,0,4,2,Placed,26.28
+STU202478,Deepa Sharma,Female,Information Technology,6.98,74.3,68.8,67.0,4,4,4,0,4,1,Placed,28.41
+STU202479,Rhea Ghosh,Male,Electronics & Comm,8.3,69.9,65.8,49.6,2,4,4,0,2,2,Placed,22.34
+STU202480,Sameer Rao,Other,Computer Science,7.13,64.1,63.1,65.6,2,2,2,0,5,2,Placed,21.35
+STU202481,Sneha Kapoor,Male,Electrical & Electronics,9.49,78.7,94.0,68.5,3,4,4,0,3,4,Placed,36.52
+STU202482,Bhavna Kapoor,Female,Information Technology,7.12,70.7,66.0,92.2,2,3,2,0,5,2,Placed,21.33
+STU202483,Priya Bose,Male,Information Technology,8.51,84.2,84.2,66.6,3,5,3,0,3,3,Placed,34.3
+STU202484,Sameer Kapoor,Other,Computer Science,7.98,59.7,46.2,89.6,2,3,0,1,1,1,Placed,15.38
+STU202485,Yash Choudhury,Female,Computer Science,7.37,52.4,63.4,86.6,1,3,2,0,2,0,Placed,12.16
+STU202486,Kavya Kulkarni,Other,Computer Science,6.96,52.8,65.9,94.3,2,2,2,0,3,2,Placed,16.55
+STU202487,Divya Joshi,Female,Information Technology,7.89,63.9,74.6,73.9,3,2,2,0,4,2,Placed,23.97
+STU202488,Aditi Kulkarni,Male,Electronics & Comm,8.57,65.3,68.2,72.1,2,4,4,0,2,1,Placed,20.98
+STU202489,Deepa Iyer,Male,Information Technology,8.1,68.0,70.9,86.7,2,2,2,0,4,2,Placed,23.66
+STU202490,Isha Rao,Other,Computer Science,6.58,43.4,53.9,52.4,2,2,1,0,3,1,Placed,10.21
+STU202491,Pranay Choudhury,Male,Information Technology,8.34,68.6,67.9,42.3,2,3,3,0,4,2,Placed,26.26
+STU202492,Pranay Mishra,Male,Computer Science,8.09,74.4,84.4,79.5,3,5,4,0,2,3,Placed,28.58
+STU202493,Vikas Malhotra,Female,Electronics & Comm,9.24,76.5,77.7,80.6,3,4,4,0,2,2,Placed,29.64
+STU202494,Shreya Malhotra,Female,Mechanical,8.09,60.9,71.3,65.2,2,3,3,0,5,2,Placed,20.01
+STU202495,Shreya Bhat,Other,Computer Science,7.57,61.1,74.5,71.5,2,4,2,0,4,3,Placed,24.02
+STU202496,Rahul Reddy,Male,Information Technology,7.38,53.6,66.3,84.1,1,3,1,0,0,1,Placed,12.8
+STU202497,Sameer Patil,Other,Computer Science,9.0,87.7,95.3,64.3,3,3,2,0,4,3,Placed,36.36
+STU202498,Siddharth Rao,Other,Computer Science,7.22,45.5,62.2,,2,4,2,0,0,3,Placed,16.23
+STU202499,Divya Bose,Female,Information Technology,7.79,62.0,48.3,65.5,2,2,2,0,4,2,Placed,19.67
+STU202500,Deepa Verma,Female,Electronics & Comm,8.97,82.7,82.3,53.5,2,5,4,0,1,2,Placed,31.8
+STU202501,Neha Saxena,Male,Information Technology,9.74,86.1,82.0,62.7,3,5,2,0,2,2,Placed,34.48
+STU202502,Yash Verma,Male,Mechanical,8.7,78.4,77.5,86.7,2,3,4,0,5,3,Placed,27.55
+STU202503,Divya Deshmukh,Female,Computer Science,7.61,60.1,61.1,60.7,2,2,3,0,5,2,Placed,18.04
+STU202504,Vikas Iyer,Male,Computer Science,6.73,39.1,43.7,57.7,1,1,2,2,2,0,Not Placed,0.0
+STU202505,Yash Rao,Male,Electrical & Electronics,8.56,77.4,85.2,40.9,2,3,3,0,2,2,Placed,26.94
+STU202506,Nikhil Malhotra,Other,Electronics & Comm,7.43,52.2,59.1,83.7,2,3,0,0,4,1,Placed,13.6
+STU202507,Akhil Patil,Male,Electronics & Comm,8.65,71.2,68.0,76.7,3,3,2,0,5,2,Placed,25.88
+STU202508,Pranay Mishra,Male,Computer Science,7.62,63.9,66.9,50.6,1,2,2,0,3,2,Placed,18.8
+STU202509,Nikhil Nair,Male,Electronics & Comm,7.76,62.8,64.3,49.4,2,2,,0,1,2,Placed,21.59
+STU202510,Neha Iyer,Other,Information Technology,8.27,82.1,78.6,92.9,2,3,3,0,1,2,Placed,30.48
+STU202511,Sanjay Ghosh,Other,Computer Science,9.29,79.5,87.5,61.8,2,4,3,0,4,2,Placed,31.39
+STU202512,Sanjay Bhat,Female,Electronics & Comm,8.19,66.4,68.9,79.1,1,2,2,0,1,2,Placed,19.15
+STU202513,Pranay Reddy,Female,Computer Science,7.88,63.8,66.4,40.7,1,1,3,0,2,1,Placed,17.36
+STU202514,Sanjay Mehta,Female,Computer Science,8.05,66.9,82.6,59.9,3,3,2,0,4,2,Placed,27.67
+STU202515,Shreya Joshi,Other,Information Technology,6.98,61.6,55.1,61.9,2,2,3,0,1,0,Placed,14.68
+STU202516,Shreya Kulkarni,Male,Mechanical,8.15,73.9,70.8,91.9,2,4,3,0,4,2,Placed,23.48
+STU202517,Rahul Nair,Male,Electronics & Comm,8.9,85.8,74.0,78.0,3,3,3,0,5,2,Placed,29.11
+STU202518,Chetan Nair,Male,Computer Science,7.13,56.9,74.0,45.8,2,3,2,1,5,1,Placed,18.99
+STU202519,Varun Ghosh,Other,Electronics & Comm,6.91,49.2,53.4,58.9,1,2,1,0,3,1,Placed,8.7
+STU202520,Deepa Sharma,Male,Electronics & Comm,9.14,68.1,76.9,52.8,3,4,3,0,1,2,Placed,24.67
+STU202521,Tanvi Saxena,Female,Information Technology,7.6,60.6,65.3,65.2,2,2,3,1,5,1,Placed,17.77
+STU202522,Deepa Kulkarni,Male,Electrical & Electronics,7.61,61.1,64.0,46.5,2,3,2,0,3,1,Placed,16.29
+STU202523,Sneha Mehta,Female,Electronics & Comm,8.0,74.6,78.0,40.5,2,4,4,0,4,3,Placed,25.17
+STU202524,Tanvi Malhotra,Female,Computer Science,6.62,47.6,54.8,80.8,1,1,1,1,4,1,Not Placed,0.0
+STU202525,Akhil Rao,Other,Computer Science,6.81,58.7,59.5,87.4,3,3,3,1,1,2,Placed,18.25
+STU202526,Sakshi Agarwal,Female,Computer Science,7.38,64.3,60.3,55.9,3,2,3,0,1,2,Placed,23.74
+STU202527,Siddharth Verma,Male,Electrical & Electronics,7.76,58.5,52.5,66.9,1,2,1,0,0,2,Placed,15.79
+STU202528,Sameer Rao,Female,Computer Science,5.0,29.8,39.6,52.0,0,1,0,0,2,0,Not Placed,0.0
+STU202529,Divya Saxena,Female,Electronics & Comm,9.58,88.6,94.7,65.1,3,6,4,0,3,4,Placed,40.32
+STU202530,Pranay Patil,Male,Computer Science,9.07,70.3,84.6,52.9,2,2,4,0,2,2,Placed,27.06
+STU202531,Tanvi Sharma,Male,Electronics & Comm,8.92,78.2,78.5,57.2,2,4,3,0,2,2,Placed,26.44
+STU202532,Arjun Kapoor,Other,Computer Science,7.0,52.7,67.5,87.3,2,3,2,0,4,1,Placed,16.68
+STU202533,Divya Nair,Male,Electronics & Comm,6.57,45.8,53.2,73.4,1,2,2,2,1,0,Not Placed,0.0
+STU202534,Yash Deshmukh,Male,Computer Science,7.82,78.4,68.4,49.5,3,1,3,0,1,3,Placed,29.61
+STU202535,Ananya Deshmukh,Other,Computer Science,8.44,68.4,69.5,48.4,3,4,4,0,2,1,Placed,24.81
+STU202536,Arjun Choudhury,Female,Electronics & Comm,6.32,54.4,57.6,78.6,2,3,3,2,2,0,Not Placed,0.0
+STU202537,Harsh Kulkarni,Female,Electronics & Comm,9.15,91.0,84.1,93.6,3,4,3,0,5,3,Placed,36.29
+STU202538,Chetan Saxena,Male,Computer Science,7.96,73.3,62.7,70.4,3,2,2,0,4,2,Placed,25.74
+STU202539,Arjun Saxena,Male,Computer Science,9.07,79.4,89.2,82.5,2,4,3,0,3,2,Placed,30.02
+STU202540,Nikhil Rao,Male,Information Technology,8.39,74.9,73.0,40.4,2,4,2,0,1,3,Placed,28.01
+STU202541,Sanjay Choudhury,Male,Computer Science,8.78,71.4,83.7,81.1,2,3,3,0,5,2,Placed,26.37
+STU202542,Divya Nair,Male,Computer Science,6.57,49.1,55.6,51.1,1,1,2,0,3,1,Placed,10.81
+STU202543,Sakshi Iyer,Female,Computer Science,8.43,63.2,,58.0,3,4,3,0,3,2,Placed,26.63
+STU202544,Aditi Deshmukh,Female,Information Technology,9.9,82.0,84.8,83.0,3,5,2,0,1,3,Placed,35.9
+STU202545,Arjun Sharma,Male,Computer Science,9.16,80.7,87.3,90.8,3,3,4,0,4,2,Placed,33.85
+STU202546,Isha Singh,Male,Information Technology,6.67,49.9,,44.8,1,2,0,1,1,0,Not Placed,0.0
+STU202547,Aditi Deshmukh,Male,Information Technology,7.74,70.2,74.7,72.8,3,4,2,0,4,3,Placed,27.58
+STU202548,Neha Mehta,Male,Computer Science,6.35,31.0,53.2,91.4,1,2,1,1,2,1,Not Placed,0.0
+STU202549,Aditi Kulkarni,Other,Information Technology,7.69,65.5,70.0,40.0,3,3,2,0,3,2,Placed,25.11
+STU202550,Gaurav Reddy,Other,Electrical & Electronics,7.74,66.1,51.4,75.7,3,5,2,1,3,0,Placed,19.59
+STU202551,Isha Deshmukh,Male,Electronics & Comm,9.01,86.2,93.6,50.0,3,4,5,0,1,2,Placed,34.6
+STU202552,Arjun Nair,Male,Mechanical,8.19,64.6,64.7,64.6,2,4,3,0,1,2,Placed,20.42
+STU202553,Tanvi Bhat,Female,Electrical & Electronics,6.86,62.5,,44.1,2,3,2,0,1,1,Placed,14.76
+STU202554,Harsh Patil,Other,Mechanical,8.37,68.3,69.1,,1,3,3,0,3,1,Placed,19.5
+STU202555,Shreya Saxena,Other,Electrical & Electronics,6.68,46.6,,56.0,1,3,2,0,3,1,Placed,9.49
+STU202556,Sanjay Mehta,Male,Electrical & Electronics,7.88,68.7,75.9,43.4,2,2,3,0,5,2,Placed,23.77
+STU202557,Neha Mishra,Male,Electrical & Electronics,7.66,74.5,,89.7,2,3,2,0,5,3,Placed,26.9
+STU202558,Tanvi Mehta,Female,Mechanical,8.37,65.0,62.3,90.1,2,3,2,0,3,2,Placed,19.8
+STU202559,Aarav Agarwal,Other,Information Technology,8.59,63.4,84.9,45.6,2,3,4,0,4,2,Placed,24.22
+STU202560,Vikas Verma,Female,Computer Science,7.07,60.5,62.4,85.0,2,3,1,1,1,2,Placed,18.71
+STU202561,Rahul Rao,Male,Computer Science,8.65,65.7,76.6,85.2,1,3,3,0,2,2,Placed,22.94
+STU202562,Aditi Mehta,Female,Electrical & Electronics,6.87,52.5,62.4,90.8,1,2,1,0,3,1,Placed,10.48
+STU202563,Harsh Singh,Male,Computer Science,7.56,51.1,59.6,,2,3,1,0,1,3,Placed,18.14
+STU202564,Pooja Agarwal,Male,Electronics & Comm,6.78,51.4,59.4,68.6,1,1,,0,2,1,Placed,9.62
+STU202565,Priya Choudhury,Male,Information Technology,7.3,54.2,70.4,53.2,3,4,3,0,3,2,Placed,19.86
+STU202566,Yash Choudhury,Male,Mechanical,6.75,52.6,68.4,77.7,1,2,2,0,2,1,Placed,9.69
+STU202567,Isha Choudhury,Male,Information Technology,8.81,65.4,69.6,52.3,2,4,2,0,5,2,Placed,23.58
+STU202568,Vikas Verma,Other,Information Technology,9.38,75.2,73.7,62.7,3,4,4,0,5,2,Placed,28.49
+STU202569,Gaurav Joshi,Female,Electronics & Comm,8.84,75.5,78.4,82.0,2,2,3,0,4,3,Placed,25.6
+STU202570,Sanjay Sharma,Male,Information Technology,7.4,52.1,55.5,80.3,2,4,1,0,4,1,Placed,14.38
+STU202571,Akhil Choudhury,Male,Information Technology,8.68,78.5,59.3,49.1,2,4,2,0,2,2,Placed,26.48
+STU202572,Harsh Reddy,Male,Electronics & Comm,8.12,63.4,65.6,42.6,3,4,3,0,4,2,Placed,23.67
+STU202573,Vikas Gupta,Female,Electronics & Comm,7.49,67.9,65.9,79.5,2,3,2,0,2,2,Placed,21.0
+STU202574,Kavya Kulkarni,Female,Computer Science,6.14,57.8,54.4,89.9,2,1,2,0,4,1,Placed,14.84
+STU202575,Pooja Bose,Female,Information Technology,5.15,37.7,45.3,89.0,1,1,0,1,3,0,Not Placed,0.0
+STU202576,Pranay Patil,Male,Electrical & Electronics,7.31,48.7,66.2,43.2,2,3,2,0,4,1,Placed,13.11
+STU202577,Sanjay Kulkarni,Other,Computer Science,8.11,71.6,,78.8,2,2,2,0,3,2,Placed,25.73
+STU202578,Chetan Bhat,Female,Information Technology,9.3,76.3,97.2,67.8,3,3,3,0,3,3,Placed,35.35
+STU202579,Ananya Kapoor,Female,Information Technology,9.73,77.0,80.4,67.4,2,6,3,0,4,2,Placed,31.22
+STU202580,Aarav Patil,Other,Mechanical,7.53,66.4,73.1,58.3,1,3,1,0,4,2,Placed,20.45
+STU202581,Neha Sharma,Male,Information Technology,8.25,70.2,64.6,85.2,2,2,2,0,1,2,Placed,23.45
+STU202582,Varun Iyer,Male,Computer Science,6.53,40.5,53.1,67.4,1,1,1,1,3,2,Not Placed,0.0
+STU202583,Isha Saxena,Female,Electronics & Comm,6.07,44.9,57.9,55.0,1,4,1,3,3,1,Not Placed,0.0
+STU202584,Rahul Mishra,Male,Electronics & Comm,7.03,47.9,70.7,78.2,2,2,2,0,5,1,Placed,15.02
+STU202585,Priya Bhat,Male,Information Technology,8.38,79.7,70.6,56.2,3,4,3,0,5,2,Placed,28.29
+STU202586,Sanjay Nair,Other,Electronics & Comm,7.34,75.7,75.8,70.4,2,4,3,0,4,1,Placed,23.48
+STU202587,Sameer Saxena,Other,Electronics & Comm,7.15,76.5,75.2,80.4,2,3,2,1,2,2,Placed,23.05
+STU202588,Rohan Rao,Female,Computer Science,8.01,64.1,71.1,83.2,2,3,3,0,2,1,Placed,20.54
+STU202589,Priya Iyer,Other,Information Technology,7.49,59.3,79.4,,1,4,2,0,3,3,Placed,20.49
+STU202590,Yash Verma,Male,Electrical & Electronics,6.72,42.0,40.9,93.7,1,2,0,0,1,2,Not Placed,0.0
+STU202591,Aditi Rao,Male,Computer Science,7.32,43.2,51.0,57.4,2,2,2,0,0,2,Placed,13.15
+STU202592,Arjun Kulkarni,Other,Computer Science,8.83,81.1,90.4,76.3,2,5,4,0,5,3,Placed,34.28
+STU202593,Rahul Ghosh,Male,Mechanical,5.43,32.4,37.2,51.6,0,2,0,0,4,1,Not Placed,0.0
+STU202594,Pooja Iyer,Male,Computer Science,7.72,57.8,61.0,45.4,2,2,1,0,1,1,Placed,18.95
+STU202595,Kavya Joshi,Female,Information Technology,8.02,61.6,72.8,,2,3,2,0,3,1,Placed,22.08
+STU202596,Vikas Rao,Female,Information Technology,8.58,62.1,78.1,54.5,3,4,2,0,5,2,Placed,24.62
+STU202597,Shreya Saxena,Female,Mechanical,6.53,54.5,47.5,56.0,1,2,1,0,1,2,Placed,8.94
+STU202598,Harsh Kapoor,Female,Information Technology,6.43,40.0,51.1,43.5,2,1,1,0,2,1,Placed,7.06
+STU202599,Akhil Verma,Male,Computer Science,7.45,47.7,61.8,89.4,2,2,2,0,3,1,Placed,16.31
+STU202600,Yash Malhotra,Other,Computer Science,7.89,67.9,62.3,58.2,1,4,3,0,4,1,Placed,19.04
+STU202601,Harsh Gupta,Other,Computer Science,8.48,80.6,74.8,71.0,3,4,3,0,1,2,Placed,32.31
+STU202602,Vikas Malhotra,Female,Computer Science,6.97,53.0,55.4,72.8,0,3,2,0,4,1,Placed,10.74
+STU202603,Siddharth Gupta,Other,Computer Science,8.87,81.9,86.7,,4,5,4,0,4,1,Placed,33.74
+STU202604,Akhil Kapoor,Female,Computer Science,8.62,68.3,78.6,47.4,2,3,3,0,5,3,Placed,26.62
+STU202605,Aarav Saxena,Other,Computer Science,5.49,34.3,42.2,53.9,1,1,0,0,3,1,Not Placed,0.0
+STU202606,Vikas Mehta,Male,Information Technology,7.09,66.2,72.3,46.5,2,4,2,0,5,1,Placed,20.81
+STU202607,Ananya Mehta,Female,Mechanical,6.9,53.6,42.5,73.8,3,1,1,0,1,0,Placed,11.11
+STU202608,Kavya Ghosh,Other,Computer Science,5.69,42.5,44.3,40.0,2,3,1,0,3,0,Placed,6.61
+STU202609,Aarav Patil,Male,Information Technology,8.1,64.3,77.1,62.2,2,4,3,0,5,1,Placed,21.24
+STU202610,Pooja Mishra,Other,Computer Science,8.42,63.1,56.3,89.3,2,2,2,0,2,2,Placed,20.5
+STU202611,Rhea Bhat,Male,Information Technology,5.72,31.2,50.0,59.4,0,2,1,0,1,1,Not Placed,0.0
+STU202612,Yash Iyer,Female,Electronics & Comm,7.25,55.2,47.9,82.0,0,1,1,1,3,0,Not Placed,0.0
+STU202613,Pranay Malhotra,Female,Mechanical,8.26,78.2,74.0,77.7,3,5,5,0,1,2,Placed,28.87
+STU202614,Chetan Joshi,Male,Electronics & Comm,7.88,61.6,74.0,51.6,2,2,3,0,2,1,Placed,17.56
+STU202615,Neha Reddy,Male,Electrical & Electronics,8.58,70.5,85.2,47.4,3,5,2,0,4,2,Placed,27.33
+STU202616,Ananya Deshmukh,Male,Electronics & Comm,6.73,41.0,52.5,70.8,1,1,1,1,4,1,Not Placed,0.0
+STU202617,Isha Choudhury,Male,Computer Science,8.28,53.1,71.9,87.8,1,2,2,0,4,2,Placed,17.52
+STU202618,Harsh Joshi,Female,Computer Science,8.23,58.5,67.3,64.8,1,4,3,1,3,2,Placed,20.5
+STU202619,Bhavna Iyer,Female,Information Technology,6.34,30.4,47.9,45.7,1,1,2,2,1,1,Not Placed,0.0
+STU202620,Divya Gupta,Other,Electrical & Electronics,6.27,38.2,49.8,93.3,1,1,0,1,4,0,Not Placed,0.0
+STU202621,Rahul Kulkarni,Female,Information Technology,8.89,77.2,80.0,84.8,3,3,3,0,4,2,Placed,30.67
+STU202622,Aarav Bhat,Male,Information Technology,8.79,83.7,82.8,85.6,2,4,4,0,5,2,Placed,31.54
+STU202623,Priya Bose,Other,Electrical & Electronics,7.91,68.7,69.8,,2,3,3,0,5,2,Placed,22.5
+STU202624,Priya Singh,Female,Electronics & Comm,8.85,85.5,90.9,65.5,1,4,3,0,1,3,Placed,30.15
+STU202625,Vikas Mehta,Female,Electrical & Electronics,9.62,84.5,82.1,93.6,3,6,4,0,1,4,Placed,35.78
+STU202626,Vikas Deshmukh,Male,Mechanical,6.47,45.7,44.8,76.7,1,2,1,0,2,1,Not Placed,0.0
+STU202627,Deepa Deshmukh,Female,Computer Science,6.04,42.8,52.5,91.2,1,2,1,0,4,2,Placed,8.82
+STU202628,Neha Joshi,Other,Electronics & Comm,8.24,71.6,71.0,47.4,3,3,2,0,4,2,Placed,26.52
+STU202629,Sakshi Joshi,Female,Computer Science,8.54,76.3,75.3,40.0,3,3,2,0,3,2,Placed,29.82
+STU202630,Arjun Ghosh,Other,Electrical & Electronics,7.23,66.2,68.6,42.4,2,2,2,0,2,2,Placed,20.89
+STU202631,Sanjay Ghosh,Female,Information Technology,9.18,78.8,78.5,88.9,3,5,3,0,4,3,Placed,34.34
+STU202632,Ananya Agarwal,Male,Information Technology,8.7,83.0,87.3,52.7,3,5,3,0,2,2,Placed,32.73
+STU202633,Chetan Bose,Other,Information Technology,8.39,77.0,83.8,59.4,3,3,5,0,4,2,Placed,31.11
+STU202634,Nikhil Saxena,Other,Computer Science,8.56,74.5,83.9,,4,4,1,0,3,2,Placed,32.58
+STU202635,Manish Joshi,Male,Electronics & Comm,9.15,84.8,87.6,54.1,3,4,4,0,1,2,Placed,32.77
+STU202636,Isha Malhotra,Other,Electrical & Electronics,7.85,67.7,84.0,90.7,2,5,1,0,1,3,Placed,24.24
+STU202637,Aarav Bose,Female,Computer Science,7.51,58.7,80.8,81.4,2,2,2,0,2,1,Placed,20.19
+STU202638,Ananya Mishra,Female,Computer Science,7.03,53.8,61.7,71.4,0,1,1,0,2,1,Placed,9.88
+STU202639,Bhavna Reddy,Female,Information Technology,6.74,68.6,64.8,48.0,1,4,2,0,0,1,Placed,17.42
+STU202640,Gaurav Choudhury,Male,Computer Science,8.55,74.0,72.9,70.1,3,3,1,0,1,1,Placed,29.08
+STU202641,Akhil Singh,Female,Computer Science,7.68,60.6,57.8,59.8,1,3,2,0,4,2,Placed,15.34
+STU202642,Rhea Malhotra,Other,Information Technology,6.95,53.1,64.2,58.3,1,2,1,0,2,2,Placed,17.89
+STU202643,Pranay Verma,Male,Electrical & Electronics,9.56,92.9,99.0,44.8,3,3,5,0,2,2,Placed,36.14
+STU202644,Sneha Choudhury,Other,Computer Science,9.01,81.6,69.8,57.0,3,3,5,0,2,4,Placed,33.05
+STU202645,Harsh Joshi,Male,Information Technology,6.91,44.8,39.2,89.2,2,2,1,1,1,1,Not Placed,0.0
+STU202646,Aditi Agarwal,Other,Computer Science,8.19,80.8,70.7,73.3,3,3,2,0,2,3,Placed,31.69
+STU202647,Siddharth Sharma,Male,Mechanical,8.09,70.9,67.1,73.9,2,2,3,0,1,1,Placed,19.76
+STU202648,Rhea Deshmukh,Other,Mechanical,7.64,60.6,72.3,53.5,1,1,2,0,1,2,Placed,17.87
+STU202649,Rahul Choudhury,Female,Computer Science,7.05,47.8,51.0,67.5,2,3,2,0,3,1,Placed,13.07
+STU202650,Isha Rao,Other,Electrical & Electronics,9.11,81.5,95.1,45.0,4,4,3,0,5,4,Placed,37.69
+STU202651,Sanjay Verma,Female,Mechanical,8.64,81.9,89.7,63.1,2,5,2,0,1,3,Placed,29.13
+STU202652,Aarav Agarwal,Male,Computer Science,6.52,50.2,47.7,73.1,1,3,2,0,1,1,Placed,10.16
+STU202653,Sakshi Verma,Female,Electrical & Electronics,8.6,80.0,79.8,49.8,2,3,3,0,5,1,Placed,27.34
+STU202654,Sameer Verma,Male,Electronics & Comm,6.43,42.7,57.0,58.1,2,1,1,1,4,1,Not Placed,0.0
+STU202655,Bhavna Malhotra,Other,Mechanical,7.75,67.7,60.4,67.1,2,3,3,0,1,1,Placed,19.84
+STU202656,Deepa Iyer,Other,Mechanical,7.6,59.3,66.3,83.5,1,3,2,0,2,2,Placed,17.86
+STU202657,Aditi Mehta,Female,Computer Science,6.41,44.8,50.8,62.8,2,2,0,0,2,1,Placed,10.16
+STU202658,Rohan Kulkarni,Male,Mechanical,6.17,33.6,39.4,81.3,1,1,2,0,3,1,Not Placed,0.0
+STU202659,Rahul Iyer,Other,Computer Science,5.71,44.1,43.9,67.5,1,3,1,1,2,0,Not Placed,0.0
+STU202660,Divya Iyer,Male,Information Technology,9.9,88.7,85.9,44.8,3,5,3,0,3,3,Placed,38.65
+STU202661,Manish Joshi,Female,Computer Science,7.47,60.9,56.1,51.4,1,2,2,0,2,2,Placed,16.07
+STU202662,Rahul Agarwal,Male,Information Technology,7.61,58.1,60.0,64.5,2,3,3,1,5,3,Placed,21.65
+STU202663,Varun Saxena,Female,Computer Science,8.91,78.9,73.6,47.9,3,5,3,0,3,2,Placed,31.46
+STU202664,Varun Malhotra,Male,Computer Science,6.25,46.0,61.7,45.9,1,2,1,0,4,2,Placed,11.9
+STU202665,Harsh Malhotra,Female,Computer Science,6.83,53.2,62.9,80.7,2,2,0,0,2,2,Placed,14.34
+STU202666,Isha Choudhury,Female,Computer Science,5.73,37.3,40.7,84.9,2,1,1,1,1,1,Not Placed,0.0
+STU202667,Priya Deshmukh,Other,Information Technology,7.07,55.0,76.0,63.9,2,2,2,1,4,2,Placed,19.3
+STU202668,Priya Verma,Male,Mechanical,9.28,81.5,75.9,79.1,2,3,4,0,2,3,Placed,30.78
+STU202669,Sameer Bhat,Female,Computer Science,6.74,47.8,48.8,47.5,1,1,2,1,3,0,Not Placed,0.0
+STU202670,Sneha Mishra,Female,Information Technology,9.1,86.0,79.8,54.8,4,4,4,0,4,3,Placed,37.07
+STU202671,Vikas Patil,Female,Electronics & Comm,6.61,53.2,57.8,76.5,2,2,1,0,4,1,Placed,13.47
+STU202672,Aarav Malhotra,Female,Information Technology,7.93,64.7,69.8,90.8,2,2,2,0,4,2,Placed,21.73
+STU202673,Priya Agarwal,Male,Computer Science,7.6,60.7,68.4,48.3,3,1,3,0,4,2,Placed,23.4
+STU202674,Akhil Joshi,Male,Mechanical,7.24,45.7,60.9,79.9,2,3,2,0,2,1,Placed,11.24
+STU202675,Harsh Rao,Female,Information Technology,7.1,61.4,56.3,61.0,3,2,3,0,4,2,Placed,18.68
+STU202676,Sneha Agarwal,Male,Computer Science,6.06,49.4,43.6,72.4,1,2,1,0,4,1,Placed,7.98
+STU202677,Arjun Sharma,Female,Computer Science,7.34,58.7,69.4,86.0,1,3,2,0,4,1,Placed,17.18
+STU202678,Isha Reddy,Female,Computer Science,7.62,47.1,66.1,,1,3,3,0,3,2,Placed,16.9
+STU202679,Pooja Singh,Female,Information Technology,7.18,58.8,63.9,90.2,3,2,2,0,2,2,Placed,21.0
+STU202680,Yash Gupta,Male,Mechanical,7.45,48.9,62.8,67.0,1,3,2,0,5,1,Placed,12.31
+STU202681,Vikas Reddy,Other,Information Technology,7.22,69.7,64.0,70.5,2,4,2,0,1,1,Placed,19.62
+STU202682,Bhavna Bose,Female,Electronics & Comm,5.94,47.5,48.9,56.9,0,1,0,1,0,1,Not Placed,0.0
+STU202683,Akhil Deshmukh,Male,Computer Science,8.21,66.9,72.1,80.5,2,3,3,0,2,1,Placed,21.76
+STU202684,Isha Bose,Male,Mechanical,9.53,88.6,85.0,51.1,3,4,5,0,1,3,Placed,37.62
+STU202685,Divya Joshi,Female,Electronics & Comm,8.85,73.9,87.8,,2,5,4,0,5,3,Placed,29.35
+STU202686,Yash Patil,Male,Computer Science,7.19,59.0,61.2,53.2,2,3,3,0,4,1,Placed,18.61
+STU202687,Rahul Kulkarni,Female,Computer Science,6.81,53.2,49.1,52.1,2,1,2,0,1,2,Placed,11.85
+STU202688,Vikas Malhotra,Female,Computer Science,8.37,65.0,73.1,69.6,2,3,3,0,2,2,Placed,23.45
+STU202689,Rhea Bhat,Female,Electronics & Comm,6.82,58.8,59.4,72.2,2,3,2,0,1,2,Placed,16.49
+STU202690,Kavya Bose,Male,Mechanical,7.89,69.7,65.1,73.2,3,4,2,0,5,2,Placed,24.24
+STU202691,Yash Iyer,Other,Information Technology,7.67,61.3,69.5,91.0,3,2,3,0,1,1,Placed,22.05
+STU202692,Akhil Bhat,Other,Information Technology,9.79,89.9,85.9,52.0,3,4,4,0,3,3,Placed,39.2
+STU202693,Aditi Rao,Female,Electronics & Comm,8.78,75.1,74.9,89.1,2,4,2,0,5,2,Placed,25.46
+STU202694,Bhavna Agarwal,Male,Electronics & Comm,6.14,40.7,39.6,70.7,1,2,1,1,1,1,Not Placed,0.0
+STU202695,Deepa Bose,Female,Electronics & Comm,7.77,59.5,60.9,43.0,2,2,3,1,4,1,Placed,16.2
+STU202696,Priya Rao,Other,Information Technology,8.32,83.5,84.9,49.8,3,4,3,0,2,3,Placed,34.0
+STU202697,Aditi Choudhury,Female,Mechanical,7.99,66.6,84.1,52.8,3,25,2,0,3,2,Placed,23.75
+STU202698,Tanvi Rao,Male,Information Technology,8.68,78.1,76.5,55.6,3,3,3,0,2,3,Placed,31.69
+STU202699,Gaurav Mehta,Female,Computer Science,7.89,60.9,79.7,93.7,3,3,3,0,2,3,Placed,28.82
+STU202700,Gaurav Sharma,Other,Mechanical,7.11,65.0,61.1,48.1,1,2,1,1,3,2,Placed,15.94
+STU202701,Deepa Choudhury,Male,Information Technology,8.35,82.0,73.2,69.6,2,2,3,0,2,3,Placed,28.35
+STU202702,Ananya Ghosh,Male,Information Technology,8.46,71.3,80.8,64.5,2,3,4,0,4,2,Placed,25.65
+STU202703,Sneha Bhat,Female,Electrical & Electronics,8.08,72.3,83.2,60.7,2,5,3,0,4,2,Placed,24.47
+STU202704,Divya Iyer,Female,Electrical & Electronics,6.4,54.3,67.1,48.5,1,3,1,0,2,1,Placed,11.97
+STU202705,Nikhil Sharma,Male,Electronics & Comm,7.04,59.8,56.3,85.0,0,2,3,0,5,2,Placed,12.95
+STU202706,Divya Kulkarni,Female,Computer Science,8.05,69.5,71.6,74.5,2,2,3,0,3,2,Placed,22.63
+STU202707,Rahul Singh,Male,Computer Science,9.23,93.0,84.0,45.6,4,5,4,0,5,3,Placed,39.24
+STU202708,Deepa Bhat,Female,Mechanical,8.11,79.5,79.9,64.3,4,4,4,0,3,2,Placed,31.44
+STU202709,Neha Gupta,Female,Electronics & Comm,9.02,86.3,95.9,72.6,3,3,4,0,1,3,Placed,35.87
+STU202710,Manish Saxena,Female,Computer Science,5.71,42.0,50.8,67.5,1,1,1,3,4,1,Not Placed,0.0
+STU202711,Kavya Choudhury,Female,Mechanical,8.5,72.9,83.0,,2,4,4,0,3,2,Placed,25.72
+STU202712,Neha Bhat,Male,Electronics & Comm,7.02,59.4,65.9,61.2,2,1,2,0,1,1,Placed,14.94
+STU202713,Sneha Iyer,Male,Electrical & Electronics,7.89,62.5,74.9,77.2,3,4,2,0,2,0,Placed,21.38
+STU202714,Rohan Iyer,Other,Electrical & Electronics,7.72,54.3,66.6,91.9,1,2,3,0,5,3,Placed,16.22
+STU202715,Chetan Reddy,Male,Information Technology,9.56,84.1,77.6,41.5,3,5,3,0,5,3,Placed,35.74
+STU202716,Yash Rao,Female,Computer Science,7.51,61.2,77.2,46.6,2,1,3,0,2,1,Placed,17.89
+STU202717,Rahul Mehta,Female,Information Technology,6.28,40.7,48.2,65.8,1,1,2,1,4,1,Not Placed,0.0
+STU202718,Sakshi Choudhury,Male,Computer Science,8.13,63.2,68.4,74.4,2,4,3,0,1,2,Placed,21.47
+STU202719,Rahul Saxena,Male,Mechanical,6.49,53.5,40.8,54.7,1,1,1,2,3,2,Not Placed,0.0
+STU202720,Rhea Saxena,Male,Electrical & Electronics,6.94,47.5,51.7,67.3,2,3,1,0,2,2,Placed,12.1
+STU202721,Shreya Nair,Other,Electronics & Comm,8.16,67.5,62.4,51.5,2,2,2,0,4,3,Placed,21.89
+STU202722,Siddharth Deshmukh,Male,Electronics & Comm,6.81,52.1,57.1,91.5,1,1,1,1,4,1,Not Placed,0.0
+STU202723,Ananya Kapoor,Female,Information Technology,6.01,45.0,51.2,62.7,1,2,0,2,3,1,Not Placed,0.0
+STU202724,Nikhil Reddy,Female,Computer Science,6.69,58.4,60.9,54.2,2,3,1,0,3,2,Placed,17.48
+STU202725,Bhavna Joshi,Other,Computer Science,5.5,28.4,,46.6,0,1,1,0,3,0,Not Placed,0.0
+STU202726,Deepa Joshi,Male,Electrical & Electronics,7.4,64.2,67.4,55.1,1,4,3,0,1,2,Placed,18.54
+STU202727,Nikhil Singh,Female,Information Technology,8.98,83.0,83.6,78.0,2,5,3,0,3,2,Placed,32.63
+STU202728,Nikhil Rao,Female,Computer Science,7.94,67.3,84.0,75.4,2,3,4,0,4,3,Placed,26.64
+STU202729,Rohan Bhat,Male,Electrical & Electronics,8.7,66.7,75.7,42.9,3,3,2,0,4,2,Placed,26.14
+STU202730,Bhavna Reddy,Female,Computer Science,8.08,54.6,75.5,64.8,2,3,3,0,3,2,Placed,19.83
+STU202731,Siddharth Kulkarni,Female,Information Technology,7.67,57.4,60.5,65.4,2,2,3,0,4,2,Placed,18.8
+STU202732,Sameer Mehta,Other,Computer Science,7.89,67.4,78.2,83.0,2,4,,0,5,3,Placed,27.84
+STU202733,Kavya Bhat,Female,Information Technology,7.66,56.0,,47.3,2,2,3,0,3,1,Placed,16.94
+STU202734,Chetan Mishra,Male,Computer Science,6.63,52.1,55.1,67.7,0,3,1,0,4,1,Placed,9.13
+STU202735,Harsh Kapoor,Female,Mechanical,8.55,73.5,83.6,81.1,2,4,3,0,3,3,Placed,26.43
+STU202736,Harsh Joshi,Female,Electronics & Comm,6.33,46.6,52.1,42.0,1,3,0,0,3,2,Placed,8.98
+STU202737,Yash Rao,Female,Computer Science,8.38,84.2,77.7,71.0,1,3,3,0,5,2,Placed,28.62
+STU202738,Nikhil Malhotra,Male,Electrical & Electronics,6.36,43.2,35.3,48.5,1,1,0,1,2,0,Not Placed,0.0
+STU202739,Akhil Bose,Other,Mechanical,6.62,48.7,54.1,75.4,1,2,3,1,3,2,Placed,10.55
+STU202740,Nikhil Deshmukh,Male,Computer Science,7.39,55.3,62.9,90.7,1,3,1,0,2,1,Placed,12.95
+STU202741,Sanjay Malhotra,Male,Information Technology,6.57,46.4,52.4,58.8,1,2,1,1,3,1,Not Placed,0.0
+STU202742,Bhavna Choudhury,Female,Information Technology,5.61,34.4,41.2,44.2,1,1,0,1,4,1,Not Placed,0.0
+STU202743,Bhavna Kapoor,Male,Computer Science,8.52,88.1,87.9,56.4,2,4,3,0,3,2,Placed,34.51
+STU202744,Isha Iyer,Female,Computer Science,9.9,89.5,85.2,76.2,3,5,3,0,5,2,Placed,35.85
+STU202745,Shreya Choudhury,Male,Computer Science,5.97,26.8,30.1,50.5,0,1,0,1,1,0,Not Placed,0.0
+STU202746,Tanvi Malhotra,Female,Computer Science,7.79,65.7,75.7,,3,3,2,0,5,2,Placed,24.54
+STU202747,Priya Verma,Female,Information Technology,7.46,67.9,70.3,75.5,2,2,2,1,4,2,Placed,22.09
+STU202748,Neha Saxena,Male,Mechanical,8.84,75.6,73.3,62.9,3,3,3,0,2,3,Placed,29.1
+STU202749,Bhavna Ghosh,Female,Computer Science,8.59,71.5,75.0,41.0,3,4,2,0,5,3,Placed,30.31
+STU202750,Sneha Reddy,Other,Computer Science,7.07,61.8,50.6,88.1,1,2,3,0,3,2,Placed,15.13
+STU202751,Chetan Agarwal,Other,Electronics & Comm,6.04,35.8,35.2,80.3,1,2,1,0,1,0,Not Placed,0.0
+STU202752,Tanvi Bhat,Male,Computer Science,8.01,79.4,70.6,48.3,3,4,2,0,4,2,Placed,31.25
+STU202753,Sameer Sharma,Female,Computer Science,5.52,45.4,45.8,76.3,0,1,2,0,4,1,Not Placed,0.0
+STU202754,Rahul Joshi,Male,Computer Science,7.24,59.3,52.7,78.4,2,1,2,0,2,2,Placed,18.41
+STU202755,Sanjay Gupta,Other,Mechanical,7.05,50.9,59.9,53.3,1,2,1,0,0,2,Placed,12.64
+STU202756,Sakshi Reddy,Male,Electronics & Comm,6.41,55.1,48.8,86.4,1,2,1,2,4,0,Not Placed,0.0
+STU202757,Nikhil Reddy,Male,Information Technology,6.52,51.6,58.6,63.4,2,2,3,0,3,2,Placed,14.15
+STU202758,Shreya Singh,Other,Information Technology,8.52,73.0,74.9,46.5,1,4,4,0,3,2,Placed,24.8
+STU202759,Siddharth Reddy,Male,Information Technology,8.34,70.6,80.0,41.5,3,5,1,0,3,3,Placed,29.24
+STU202760,Yash Sharma,Male,Information Technology,7.29,70.8,69.7,75.0,2,3,1,0,1,2,Placed,23.56
+STU202761,Siddharth Deshmukh,Female,Mechanical,6.37,53.9,57.1,41.4,1,1,1,0,4,2,Placed,12.93
+STU202762,Ananya Saxena,Other,Computer Science,8.78,79.0,,78.8,2,5,,0,4,3,Placed,29.76
+STU202763,Aditi Joshi,Female,Computer Science,5.87,36.5,43.5,50.0,1,1,2,3,0,0,Not Placed,0.0
+STU202764,Aditi Verma,Male,Information Technology,7.54,66.3,69.9,81.4,1,2,2,0,1,1,Placed,19.57
+STU202765,Siddharth Patil,Female,Computer Science,9.34,87.3,91.4,46.9,2,4,3,0,2,3,Placed,32.99
+STU202766,Nikhil Mishra,Female,Mechanical,7.59,49.7,52.3,43.3,2,2,2,0,2,2,Placed,13.36
+STU202767,Priya Verma,Female,Electronics & Comm,8.37,73.7,70.6,73.6,3,4,2,0,3,2,Placed,28.44
+STU202768,Pranay Nair,Male,Computer Science,9.33,87.2,89.3,66.2,4,4,2,0,4,3,Placed,38.04
+STU202769,Arjun Mishra,Male,Electrical & Electronics,8.89,89.6,78.6,84.7,4,5,3,0,1,2,Placed,35.16
+STU202770,Pranay Ghosh,Male,Computer Science,9.57,86.8,83.1,40.4,4,5,4,0,5,3,Placed,39.16
+STU202771,Isha Patil,Other,Computer Science,5.55,40.0,37.4,78.1,0,1,1,0,3,0,Not Placed,0.0
+STU202772,Ananya Joshi,Female,Electrical & Electronics,7.33,59.3,75.8,69.3,2,2,3,0,1,1,Placed,18.45
+STU202773,Sneha Patil,Female,Computer Science,7.45,68.8,58.9,53.6,0,3,3,0,5,1,Placed,12.77
+STU202774,Tanvi Reddy,Female,Information Technology,8.55,72.7,86.4,64.3,3,3,4,0,5,3,Placed,33.73
+STU202775,Shreya Reddy,Other,Electronics & Comm,7.55,54.7,,91.6,2,2,2,1,0,2,Placed,16.19
+STU202776,Kavya Saxena,Female,Electronics & Comm,6.54,55.3,48.0,92.8,2,2,1,0,1,2,Placed,11.61
+STU202777,Priya Kulkarni,Male,Information Technology,8.76,75.4,79.0,58.9,4,4,3,0,2,3,Placed,32.35
+STU202778,Varun Agarwal,Male,Electrical & Electronics,8.9,78.5,81.1,90.6,2,3,2,0,4,2,Placed,27.65
+STU202779,Rohan Deshmukh,Female,Information Technology,5.0,25.4,30.0,59.8,1,1,0,1,2,1,Not Placed,0.0
+STU202780,Nikhil Mehta,Female,Computer Science,9.28,83.7,99.0,46.1,4,5,4,0,2,4,Placed,39.93
+STU202781,Sneha Patil,Male,Computer Science,7.48,55.9,57.2,69.5,1,2,1,0,1,2,Placed,17.36
+STU202782,Yash Iyer,Male,Electronics & Comm,8.34,88.9,78.5,60.6,3,4,3,0,4,2,Placed,30.35
+STU202783,Pranay Saxena,Female,Electronics & Comm,8.74,82.6,85.2,60.7,4,5,4,0,1,2,Placed,33.28
+STU202784,Neha Saxena,Male,Information Technology,8.44,69.5,66.2,61.0,2,4,2,0,1,1,Placed,24.16
+STU202785,Bhavna Singh,Female,Computer Science,7.59,51.7,56.4,94.9,0,2,1,0,2,2,Placed,11.99
+STU202786,Shreya Deshmukh,Other,Electronics & Comm,5.74,25.6,31.8,65.8,1,1,2,0,3,1,Not Placed,0.0
+STU202787,Manish Rao,Female,Electrical & Electronics,5.07,31.4,41.6,63.4,0,1,0,1,4,0,Not Placed,0.0
+STU202788,Divya Gupta,Male,Information Technology,8.32,61.8,83.7,43.5,2,4,2,0,3,3,Placed,25.84
+STU202789,Isha Verma,Other,Information Technology,7.75,63.1,71.4,62.6,3,3,2,0,1,1,Placed,20.6
+STU202790,Manish Gupta,Female,Computer Science,9.63,82.5,89.9,79.4,3,4,4,0,4,3,Placed,36.07
+STU202791,Rohan Saxena,Female,Information Technology,7.87,75.1,,73.7,2,4,2,0,4,2,Placed,23.31
+STU202792,Isha Saxena,Male,Information Technology,7.56,64.8,61.6,94.7,2,3,2,0,3,1,Placed,20.05
+STU202793,Akhil Rao,Male,Computer Science,8.62,69.2,79.0,90.4,2,3,4,0,5,2,Placed,25.03
+STU202794,Tanvi Gupta,Female,Electrical & Electronics,7.03,59.0,60.6,59.7,2,3,2,0,1,1,Placed,13.27
+STU202795,Chetan Deshmukh,Male,Information Technology,8.21,81.4,,41.5,2,5,3,0,1,2,Placed,28.77
+STU202796,Harsh Mehta,Male,Information Technology,5.78,33.5,45.4,46.6,1,2,2,0,2,1,Not Placed,0.0
+STU202797,Neha Patil,Male,Electronics & Comm,8.21,58.5,63.2,45.6,1,3,3,0,1,2,Placed,14.75
+STU202798,Sanjay Ghosh,Female,Computer Science,8.11,74.0,70.2,61.0,2,3,2,0,2,1,Placed,25.95
+STU202799,Deepa Choudhury,Female,Electronics & Comm,9.43,85.8,92.2,51.2,4,5,2,0,3,2,Placed,37.45
+STU202800,Akhil Kapoor,Female,Electronics & Comm,8.35,62.2,69.6,79.6,3,2,2,0,1,2,Placed,24.48
+STU202801,Kavya Verma,Female,Mechanical,6.68,41.3,50.3,,1,2,0,0,2,1,Not Placed,0.0
+STU202802,Kavya Singh,Female,Computer Science,7.17,54.2,44.6,,0,3,2,0,4,0,Placed,7.38
+STU202803,Isha Singh,Female,Information Technology,7.56,61.9,61.6,67.5,2,2,1,0,2,3,Placed,20.76
+STU202804,Arjun Bhat,Male,Mechanical,7.86,63.9,56.2,59.2,2,2,2,1,4,2,Placed,18.11
+STU202805,Nikhil Malhotra,Male,Mechanical,9.46,89.6,89.7,53.6,3,3,3,0,1,3,Placed,35.13
+STU202806,Shreya Saxena,Male,Information Technology,6.8,56.1,66.2,62.6,2,2,3,0,3,2,Placed,16.72
+STU202807,Manish Deshmukh,Male,Computer Science,7.9,73.1,72.0,49.7,3,4,3,0,1,1,Placed,23.63
+STU202808,Isha Iyer,Male,Electronics & Comm,8.94,79.9,82.0,46.9,3,4,3,0,1,3,Placed,32.26
+STU202809,Aarav Ghosh,Other,Electronics & Comm,5.0,31.9,30.0,73.2,1,1,1,0,1,0,Not Placed,0.0
+STU202810,Sameer Ghosh,Female,Information Technology,6.09,49.9,,73.1,1,2,1,2,2,1,Not Placed,0.0
+STU202811,Tanvi Agarwal,Female,Information Technology,9.07,64.0,75.5,52.8,2,2,3,0,4,2,Placed,27.37
+STU202812,Chetan Deshmukh,Male,Electronics & Comm,6.87,58.1,57.5,44.8,2,1,2,0,3,1,Placed,13.85
+STU202813,Nikhil Nair,Female,Computer Science,8.48,80.9,,76.6,4,5,3,0,4,2,Placed,34.87
+STU202814,Neha Saxena,Other,Computer Science,6.95,51.4,37.2,64.0,1,2,1,1,2,1,Not Placed,0.0
+STU202815,Deepa Saxena,Male,Computer Science,5.79,49.6,57.3,63.3,1,1,2,1,4,1,Not Placed,0.0
+STU202816,Aarav Mishra,Female,Computer Science,8.01,68.7,60.3,85.5,3,3,2,0,3,2,Placed,24.75
+STU202817,Vikas Bose,Female,Information Technology,7.48,59.1,67.1,61.5,2,4,2,1,5,3,Placed,20.28
+STU202818,Vikas Kulkarni,Female,Information Technology,7.44,54.3,61.9,81.4,1,2,2,1,3,1,Placed,12.72
+STU202819,Tanvi Malhotra,Male,Electrical & Electronics,7.41,73.0,71.4,60.7,1,4,2,0,3,2,Placed,21.09
+STU202820,Ananya Reddy,Other,Electronics & Comm,7.53,61.6,,77.8,3,2,1,0,1,2,Placed,19.43
+STU202821,Sanjay Singh,Female,Information Technology,6.56,48.0,47.8,81.0,1,2,1,1,3,0,Not Placed,0.0
+STU202822,Rahul Saxena,Female,Computer Science,6.32,36.2,37.6,83.5,0,2,2,1,1,2,Not Placed,0.0
+STU202823,Isha Sharma,Other,Information Technology,7.29,56.2,60.5,56.4,2,3,2,0,1,2,Placed,16.91
+STU202824,Priya Ghosh,Other,Information Technology,8.6,61.3,66.9,45.4,2,2,3,0,2,2,Placed,21.94
+STU202825,Manish Saxena,Male,Computer Science,7.97,66.4,58.0,77.2,3,4,2,0,3,2,Placed,25.65
+STU202826,Kavya Kulkarni,Other,Electronics & Comm,8.61,81.7,78.8,41.4,2,4,3,0,5,2,Placed,28.62
+STU202827,Bhavna Kulkarni,Male,Electronics & Comm,7.58,57.7,62.3,69.0,1,3,1,1,2,2,Placed,14.54
+STU202828,Pranay Agarwal,Male,Electrical & Electronics,6.43,60.8,56.9,72.7,2,1,2,0,4,1,Placed,12.42
+STU202829,Gaurav Deshmukh,Other,Electronics & Comm,6.75,47.5,56.6,55.2,1,1,2,1,2,2,Not Placed,0.0
+STU202830,Bhavna Choudhury,Female,Electronics & Comm,9.78,90.9,,91.1,3,5,4,0,2,4,Placed,38.27
+STU202831,Deepa Deshmukh,Male,Electronics & Comm,8.39,72.3,70.8,80.6,4,3,3,0,5,2,Placed,28.79
+STU202832,Harsh Ghosh,Other,Mechanical,8.41,69.7,78.6,58.6,4,2,1,0,3,3,Placed,29.88
+STU202833,Manish Sharma,Other,Information Technology,7.97,64.2,64.8,40.3,1,3,3,1,2,2,Placed,19.69
+STU202834,Sneha Malhotra,Female,Computer Science,9.08,84.8,82.3,56.5,3,3,3,0,4,2,Placed,33.15
+STU202835,Divya Kulkarni,Female,Computer Science,9.06,90.4,93.8,58.2,4,5,5,0,3,2,Placed,39.92
+STU202836,Yash Ghosh,Female,Computer Science,8.49,67.6,76.9,41.2,3,4,3,0,3,2,Placed,25.88
+STU202837,Aarav Bhat,Female,Computer Science,8.53,68.4,74.8,82.2,4,2,3,0,2,3,Placed,31.42
+STU202838,Chetan Kapoor,Other,Computer Science,8.26,70.7,68.6,74.8,3,3,3,0,1,1,Placed,24.98
+STU202839,Pranay Kulkarni,Female,Computer Science,5.52,25.0,30.0,53.9,0,1,1,0,4,1,Not Placed,0.0
+STU202840,Sameer Kulkarni,Other,Information Technology,8.04,72.7,71.6,80.8,3,4,4,0,2,2,Placed,28.54
+STU202841,Chetan Patil,Other,Electronics & Comm,6.61,48.5,47.4,81.8,0,2,1,1,0,1,Not Placed,0.0
+STU202842,Sneha Patil,Female,Information Technology,6.02,35.1,34.5,61.9,0,1,0,2,4,1,Not Placed,0.0
+STU202843,Sanjay Mishra,Female,Information Technology,7.95,60.4,74.8,78.9,2,3,3,0,5,2,Placed,22.52
+STU202844,Nikhil Choudhury,Male,Electronics & Comm,8.63,77.4,76.6,46.4,2,3,,0,5,2,Placed,27.24
+STU202845,Priya Joshi,Male,Electronics & Comm,5.39,31.4,,72.1,0,1,0,1,4,1,Not Placed,0.0
+STU202846,Manish Rao,Female,Computer Science,6.89,55.5,51.4,84.9,2,3,,0,2,2,Placed,16.52
+STU202847,Isha Deshmukh,Other,Computer Science,6.85,50.3,51.4,81.3,2,2,1,0,0,1,Placed,11.06
+STU202848,Akhil Gupta,Female,Electronics & Comm,7.49,52.0,60.2,44.7,0,3,2,0,2,2,Placed,10.72
+STU202849,Ananya Mishra,Male,Electronics & Comm,8.16,57.8,69.6,47.8,2,3,2,0,3,2,Placed,21.86
+STU202850,Sanjay Ghosh,Male,Information Technology,6.78,49.7,48.0,50.0,1,1,2,0,2,1,Placed,9.55
+STU202851,Yash Ghosh,Male,Mechanical,8.2,62.3,77.6,83.2,2,3,1,0,3,1,Placed,21.05
+STU202852,Divya Mehta,Female,Information Technology,8.05,53.9,54.2,67.1,1,2,2,0,4,2,Placed,13.96
+STU202853,Neha Patil,Female,Information Technology,7.04,66.0,69.5,59.8,2,1,2,0,4,2,Placed,20.72
+STU202854,Nikhil Iyer,Female,Computer Science,7.11,44.3,43.8,44.1,0,2,0,0,0,1,Placed,6.26
+STU202855,Siddharth Gupta,Female,Information Technology,6.23,44.1,46.2,43.3,0,1,1,1,3,1,Not Placed,0.0
+STU202856,Varun Mishra,Male,Mechanical,7.43,71.9,67.9,93.8,2,3,2,0,2,2,Placed,18.91
+STU202857,Arjun Rao,Female,Computer Science,8.71,76.9,83.9,73.2,3,4,3,0,1,2,Placed,31.22
+STU202858,Rahul Iyer,Other,Computer Science,8.35,70.2,74.9,45.1,2,6,3,0,5,1,Placed,25.76
+STU202859,Sakshi Gupta,Male,Computer Science,8.65,88.0,92.3,77.5,3,6,4,0,2,3,Placed,37.3
+STU202860,Harsh Kapoor,Other,Mechanical,6.68,53.8,67.3,91.7,2,3,2,0,4,1,Placed,11.98
+STU202861,Yash Reddy,Male,Computer Science,9.08,98.1,92.2,60.0,4,5,4,0,4,3,Placed,44.0
+STU202862,Tanvi Bose,Female,Mechanical,7.53,56.5,68.0,74.4,2,3,2,0,1,2,Placed,16.55
+STU202863,Nikhil Mishra,Male,Computer Science,6.5,54.6,44.7,69.4,2,2,1,1,3,1,Placed,12.64
+STU202864,Rohan Patil,Male,Computer Science,7.8,70.6,,51.7,1,2,3,0,3,2,Placed,18.48
+STU202865,Manish Verma,Female,Electrical & Electronics,7.22,48.9,60.0,85.7,1,4,3,0,1,1,Placed,11.3
+STU202866,Vikas Malhotra,Other,Electronics & Comm,7.95,64.3,59.8,72.8,2,3,1,0,2,1,Placed,18.42
+STU202867,Gaurav Malhotra,Male,Computer Science,8.13,69.4,72.2,93.8,2,2,3,1,3,2,Placed,24.63
+STU202868,Aarav Kulkarni,Male,Computer Science,8.52,67.8,77.6,69.8,1,3,3,0,4,2,Placed,24.22
+STU202869,Harsh Mishra,Female,Information Technology,8.08,69.1,91.8,84.3,1,5,4,0,4,2,Placed,24.41
+STU202870,Chetan Bose,Female,Information Technology,7.18,70.5,54.6,59.3,2,2,3,0,4,1,Placed,19.47
+STU202871,Neha Kapoor,Male,Computer Science,6.62,47.8,53.5,83.5,1,2,1,3,1,1,Not Placed,0.0
+STU202872,Sneha Nair,Other,Mechanical,5.88,38.5,47.8,89.7,1,1,1,1,4,2,Not Placed,0.0
+STU202873,Deepa Bose,Other,Electronics & Comm,9.21,80.4,,74.6,3,4,3,0,1,2,Placed,31.97
+STU202874,Divya Rao,Male,Computer Science,8.74,77.2,70.4,60.8,3,4,3,0,1,3,Placed,29.99
+STU202875,Chetan Reddy,Female,Mechanical,7.86,61.6,,83.7,2,2,2,1,3,1,Placed,16.73
+STU202876,Tanvi Mehta,Female,Computer Science,9.2,72.2,,73.0,4,4,3,0,5,3,Placed,36.3
+STU202877,Gaurav Iyer,Male,Computer Science,8.05,63.1,,70.3,2,3,3,0,4,1,Placed,21.93
+STU202878,Kavya Ghosh,Male,Mechanical,6.2,42.9,41.7,64.5,1,1,1,0,3,1,Not Placed,0.0
+STU202879,Sameer Bose,Male,Information Technology,9.31,75.2,78.3,92.3,2,4,4,0,4,3,Placed,29.32
+STU202880,Arjun Iyer,Male,Information Technology,6.14,43.8,47.0,55.3,1,1,0,1,3,1,Not Placed,0.0
+STU202881,Sneha Joshi,Male,Computer Science,8.27,71.1,64.0,53.0,2,3,3,0,1,2,Placed,25.01
+STU202882,Shreya Verma,Other,Mechanical,7.44,61.0,60.3,81.5,1,3,2,0,4,2,Placed,19.0
+STU202883,Yash Bose,Male,Electrical & Electronics,8.52,63.6,73.1,79.8,3,4,1,0,1,2,Placed,24.19
+STU202884,Deepa Verma,Male,Computer Science,8.89,68.9,75.2,,2,2,3,0,4,2,Placed,24.75
+STU202885,Nikhil Saxena,Female,Electronics & Comm,9.13,81.2,86.8,80.4,2,4,3,0,1,3,Placed,30.64
+STU202886,Sanjay Iyer,Female,Computer Science,6.53,49.5,61.6,48.5,0,2,2,0,3,2,Placed,9.24
+STU202887,Shreya Iyer,Male,Computer Science,6.27,45.1,42.2,50.3,2,2,1,2,4,0,Not Placed,0.0
+STU202888,Bhavna Kulkarni,Female,Computer Science,7.82,67.2,59.1,50.7,3,3,3,0,5,2,Placed,22.23
+STU202889,Nikhil Reddy,Female,Computer Science,7.88,58.7,69.5,52.1,2,2,,0,2,2,Placed,21.47
+STU202890,Priya Sharma,Male,Computer Science,7.67,61.3,52.6,76.6,2,3,2,0,2,3,Placed,19.47
+STU202891,Sakshi Malhotra,Other,Computer Science,8.11,78.2,70.2,45.5,3,3,2,0,5,2,Placed,30.2
+STU202892,Sameer Rao,Male,Electrical & Electronics,7.62,48.6,58.5,75.2,2,3,2,0,2,2,Placed,13.65
+STU202893,Sneha Kulkarni,Female,Electronics & Comm,6.56,42.4,39.5,64.7,2,1,1,2,2,2,Not Placed,0.0
+STU202894,Pranay Choudhury,Female,Computer Science,7.67,68.2,60.9,55.9,2,2,2,0,2,1,Placed,20.27
+STU202895,Harsh Choudhury,Female,Computer Science,5.8,43.1,47.1,59.3,1,1,2,1,1,0,Not Placed,0.0
+STU202896,Bhavna Singh,Female,Mechanical,8.09,74.2,79.5,63.2,2,4,3,0,3,2,Placed,25.67
+STU202897,Rhea Saxena,Female,Electronics & Comm,7.12,43.9,50.7,70.0,0,3,1,0,3,1,Placed,4.16
+STU202898,Sakshi Rao,Male,Information Technology,9.59,83.7,87.7,56.6,2,4,4,0,5,3,Placed,34.71
+STU202899,Shreya Gupta,Female,Electronics & Comm,7.48,59.4,82.1,45.9,1,2,,0,1,1,Placed,17.55
+STU202900,Ananya Iyer,Other,Computer Science,9.03,76.2,75.5,40.4,4,3,,0,5,2,Placed,33.81
+STU202901,Nikhil Iyer,Male,Information Technology,9.15,76.2,99.0,85.1,4,4,4,0,5,2,Placed,36.26
+STU202902,Aditi Mehta,Female,Electrical & Electronics,7.08,59.2,68.8,76.7,2,2,3,0,3,2,Placed,18.36
+STU202903,Deepa Saxena,Female,Computer Science,9.18,86.5,82.0,79.8,3,6,2,0,5,3,Placed,38.5
+STU202904,Sanjay Kapoor,Male,Computer Science,6.71,45.4,44.2,43.8,0,2,1,2,1,2,Not Placed,0.0
+STU202905,Pooja Gupta,Male,Information Technology,9.42,94.1,80.0,57.8,3,5,5,0,1,4,Placed,40.4
+STU202906,Sanjay Bhat,Male,Computer Science,6.29,44.3,48.2,49.6,2,2,2,0,4,2,Placed,12.08
+STU202907,Tanvi Ghosh,Male,Computer Science,8.24,70.6,75.6,41.8,2,3,3,0,1,2,Placed,24.39
+STU202908,Yash Iyer,Female,Information Technology,7.76,62.6,64.0,60.7,2,3,2,0,0,1,Placed,19.38
+STU202909,Rohan Sharma,Female,Electrical & Electronics,7.62,58.0,59.2,68.5,2,2,2,0,1,1,Placed,13.31
+STU202910,Pooja Bose,Male,Computer Science,7.93,68.3,84.1,,3,4,3,0,5,1,Placed,23.93
+STU202911,Akhil Kulkarni,Male,Mechanical,9.35,81.6,86.9,67.9,3,4,3,0,2,2,Placed,32.91
+STU202912,Kavya Mishra,Other,Electrical & Electronics,7.98,67.8,61.0,63.6,2,3,,0,3,2,Placed,21.75
+STU202913,Ananya Nair,Female,Computer Science,5.26,29.8,38.1,43.1,0,1,1,2,4,0,Not Placed,0.0
+STU202914,Nikhil Choudhury,Female,Electronics & Comm,8.57,79.5,83.1,90.3,2,4,4,0,3,3,Placed,29.97
+STU202915,Pranay Joshi,Other,Information Technology,5.64,37.5,44.3,93.7,1,2,1,0,1,1,Not Placed,0.0
+STU202916,Tanvi Bose,Female,Mechanical,6.34,44.9,47.0,87.0,1,1,1,0,1,1,Not Placed,0.0
+STU202917,Sneha Mishra,Male,Electronics & Comm,5.8,32.7,48.0,51.9,1,1,0,2,0,0,Not Placed,0.0
+STU202918,Priya Mishra,Female,Information Technology,8.31,62.5,84.3,53.1,3,4,3,0,2,2,Placed,25.48
+STU202919,Shreya Verma,Other,Computer Science,7.03,49.9,59.5,64.4,0,2,1,0,4,2,Placed,11.15
+STU202920,Bhavna Singh,Other,Information Technology,7.9,69.0,78.4,76.1,2,4,3,0,4,2,Placed,24.48
+STU202921,Neha Verma,Male,Mechanical,5.57,30.7,31.5,44.3,0,1,1,0,0,1,Not Placed,0.0
+STU202922,Sneha Choudhury,Female,Computer Science,8.21,72.0,70.4,48.3,3,3,3,0,5,2,Placed,27.68
+STU202923,Manish Deshmukh,Other,Computer Science,8.71,86.1,94.5,71.6,3,4,3,0,5,1,Placed,31.96
+STU202924,Tanvi Joshi,Male,Computer Science,8.53,71.0,68.1,78.1,4,2,3,0,5,2,Placed,26.85
+STU202925,Vikas Agarwal,Female,Information Technology,7.38,56.8,60.9,54.3,2,3,3,0,2,2,Placed,17.42
+STU202926,Kavya Mehta,Female,Computer Science,6.48,43.4,41.8,94.4,1,3,2,0,2,2,Placed,9.62
+STU202927,Nikhil Choudhury,Male,Computer Science,8.62,70.4,71.5,90.6,4,3,2,0,4,1,Placed,29.73
+STU202928,Divya Mehta,Other,Mechanical,7.24,63.0,70.8,58.8,2,1,2,1,4,1,Placed,17.61
+STU202929,Isha Gupta,Male,Electrical & Electronics,9.21,73.7,78.7,45.5,3,4,3,0,2,3,Placed,33.16
+STU202930,Chetan Nair,Male,Computer Science,5.2,34.3,41.7,51.2,0,2,0,0,3,0,Not Placed,0.0
+STU202931,Priya Reddy,Male,Information Technology,6.38,42.3,58.3,80.0,2,1,2,0,4,1,Placed,10.3
+STU202932,Rhea Verma,Female,Computer Science,8.75,83.6,75.3,92.2,3,4,2,0,2,2,Placed,31.26
+STU202933,Gaurav Malhotra,Female,Electronics & Comm,6.43,33.6,51.4,51.5,1,1,2,0,4,1,Placed,3.76
+STU202934,Isha Choudhury,Female,Electrical & Electronics,8.05,62.7,71.0,93.0,3,2,2,0,2,2,Placed,22.46
+STU202935,Varun Joshi,Male,Computer Science,6.56,37.6,51.6,51.8,1,2,0,1,2,0,Not Placed,0.0
+STU202936,Siddharth Deshmukh,Female,Information Technology,7.07,54.2,61.2,69.5,3,2,1,0,1,2,Placed,18.96
+STU202937,Aditi Deshmukh,Male,Electronics & Comm,8.9,66.7,79.5,86.1,2,5,3,0,3,3,Placed,26.67
+STU202938,Nikhil Sharma,Male,Electrical & Electronics,8.55,72.4,82.7,77.8,3,5,3,0,4,2,Placed,29.32
+STU202939,Pranay Patil,Male,Computer Science,8.81,76.2,68.7,48.4,2,2,3,0,3,3,Placed,27.41
+STU202940,Aditi Choudhury,Male,Information Technology,6.11,45.5,47.2,78.7,1,1,1,1,2,2,Not Placed,0.0
+STU202941,Chetan Rao,Female,Information Technology,6.22,41.7,41.6,70.8,1,2,2,0,3,0,Not Placed,0.0
+STU202942,Vikas Kapoor,Other,Electronics & Comm,6.48,44.1,39.5,54.7,0,2,2,1,1,0,Not Placed,0.0
+STU202943,Rhea Rao,Female,Information Technology,9.29,82.7,89.7,81.1,3,5,4,0,4,3,Placed,34.36
+STU202944,Yash Gupta,Other,Information Technology,7.12,51.3,48.6,92.4,1,3,1,0,2,1,Placed,10.16
+STU202945,Divya Mehta,Other,Electronics & Comm,8.56,74.9,76.5,45.2,2,3,3,0,1,2,Placed,24.85
+STU202946,Neha Kulkarni,Male,Mechanical,8.04,62.8,73.8,76.3,2,3,2,0,3,1,Placed,19.37
+STU202947,Sanjay Joshi,Other,Electronics & Comm,6.78,48.0,60.4,45.0,0,2,1,0,2,2,Placed,11.5
+STU202948,Divya Kapoor,Female,Information Technology,7.32,52.9,46.2,59.5,2,1,2,0,1,2,Placed,14.43
+STU202949,Pranay Gupta,Female,Information Technology,6.86,57.4,54.8,76.9,2,2,1,0,1,0,Placed,13.14
+STU202950,Aarav Iyer,Female,Information Technology,7.51,57.6,62.0,55.0,1,2,0,1,2,3,Placed,18.49
+STU202951,Aditi Malhotra,Other,Electronics & Comm,6.49,44.3,52.4,80.5,1,2,1,0,0,0,Placed,3.6
+STU202952,Rhea Reddy,Other,Computer Science,8.18,62.3,59.1,89.4,3,5,2,0,1,1,Placed,21.22
+STU202953,Ananya Patil,Female,Electrical & Electronics,8.92,84.3,79.8,81.1,3,4,3,0,3,2,Placed,29.4
+STU202954,Bhavna Saxena,Female,Computer Science,6.28,45.2,43.7,77.4,2,1,1,2,2,0,Not Placed,0.0
+STU202955,Isha Singh,Female,Information Technology,8.29,72.9,71.5,64.2,3,4,2,0,5,3,Placed,29.84
+STU202956,Harsh Verma,Other,Information Technology,7.45,48.1,57.8,85.6,1,2,2,0,3,1,Placed,11.63
+STU202957,Isha Malhotra,Female,Information Technology,7.65,55.1,58.6,89.6,2,3,1,0,1,2,Placed,17.4
+STU202958,Varun Mishra,Female,Electronics & Comm,7.26,52.0,59.9,66.5,1,2,2,0,4,2,Placed,13.8
+STU202959,Pranay Saxena,Female,Information Technology,7.56,45.8,59.3,71.2,2,3,2,0,0,1,Placed,15.65
+STU202960,Sakshi Rao,Female,Computer Science,7.23,64.0,55.2,59.0,2,1,2,0,3,1,Placed,18.68
+STU202961,Chetan Deshmukh,Female,Computer Science,6.34,46.3,53.5,76.8,1,2,2,0,1,1,Placed,9.6
+STU202962,Aarav Agarwal,Other,Electronics & Comm,7.25,66.9,62.9,85.2,2,5,2,0,5,1,Placed,18.71
+STU202963,Bhavna Kulkarni,Male,Electronics & Comm,8.13,66.5,76.6,,2,3,3,0,4,2,Placed,24.35
+STU202964,Tanvi Kapoor,Male,Electronics & Comm,8.96,70.4,83.7,92.2,3,4,3,0,4,2,Placed,27.05
+STU202965,Akhil Reddy,Female,Information Technology,6.6,45.6,48.3,54.7,1,2,1,1,0,1,Not Placed,0.0
+STU202966,Akhil Mishra,Female,Computer Science,5.76,36.4,58.7,77.9,1,2,1,1,4,0,Not Placed,0.0
+STU202967,Rhea Kulkarni,Male,Computer Science,7.06,52.5,59.7,50.5,1,3,0,0,1,1,Placed,12.22
+STU202968,Vikas Iyer,Female,Computer Science,7.93,70.9,72.0,51.4,2,3,2,0,3,2,Placed,25.17
+STU202969,Rhea Nair,Male,Electronics & Comm,8.44,66.6,70.4,66.2,2,3,2,0,2,3,Placed,24.46
+STU202970,Manish Mishra,Female,Electronics & Comm,5.8,35.9,49.5,60.3,2,1,2,0,4,1,Not Placed,0.0
+STU202971,Harsh Agarwal,Male,Information Technology,6.75,35.3,48.6,92.2,1,2,2,0,2,1,Placed,6.17
+STU202972,Shreya Mishra,Female,Information Technology,7.78,57.8,57.2,74.8,1,2,2,0,4,2,Placed,16.6
+STU202973,Tanvi Mehta,Female,Information Technology,5.15,26.0,30.0,50.4,0,1,0,1,0,0,Not Placed,0.0
+STU202974,Siddharth Sharma,Male,Electronics & Comm,6.83,45.2,42.9,50.6,1,2,1,2,3,1,Not Placed,0.0
+STU202975,Kavya Joshi,Female,Computer Science,7.6,45.2,67.8,58.2,2,3,2,0,0,0,Placed,13.16
+STU202976,Siddharth Kapoor,Female,Electrical & Electronics,6.4,53.6,47.6,69.4,2,2,2,0,3,1,Placed,9.24
+STU202977,Akhil Kulkarni,Female,Electronics & Comm,8.06,69.1,73.8,46.1,1,3,3,0,4,1,Placed,19.35
+STU202978,Arjun Rao,Female,Electronics & Comm,7.96,64.5,72.8,42.0,3,4,4,0,5,2,Placed,24.28
+STU202979,Harsh Saxena,Male,Information Technology,7.05,54.8,54.4,51.6,1,2,2,0,4,1,Placed,11.18
+STU202980,Harsh Kulkarni,Female,Information Technology,8.27,61.5,60.9,66.5,2,3,2,0,2,2,Placed,21.91
+STU202981,Pranay Agarwal,Male,Electronics & Comm,6.38,31.3,39.6,51.1,1,1,0,2,0,1,Not Placed,0.0
+STU202982,Pranay Mishra,Other,Electrical & Electronics,6.63,51.2,61.3,87.2,3,2,3,0,2,2,Placed,15.53
+STU202983,Kavya Patil,Female,Information Technology,6.04,32.0,42.4,57.5,1,1,1,1,1,1,Not Placed,0.0
+STU202984,Yash Choudhury,Other,Computer Science,7.2,46.2,51.5,81.6,2,2,1,0,1,1,Placed,13.49
+STU202985,Priya Bose,Male,Computer Science,7.16,55.5,61.1,89.1,2,1,2,0,2,2,Placed,19.44
+STU202986,Rohan Bose,Other,Electrical & Electronics,8.06,63.4,59.4,77.7,2,3,2,0,2,1,Placed,15.99
+STU202987,Harsh Agarwal,Female,Computer Science,7.44,56.5,73.9,60.4,1,2,3,0,3,2,Placed,16.51
+STU202988,Siddharth Sharma,Female,Computer Science,8.72,74.0,89.2,51.1,2,3,3,0,4,2,Placed,27.79
+STU202989,Kavya Iyer,Other,Information Technology,6.19,57.4,53.6,90.0,1,2,2,0,0,1,Placed,12.68
+STU202990,Sameer Rao,Male,Computer Science,7.24,56.8,61.6,56.4,2,3,2,0,2,2,Placed,17.26
+STU202991,Aditi Gupta,Male,Electrical & Electronics,7.43,62.8,59.4,93.4,2,2,3,0,3,2,Placed,16.34
+STU202992,Ananya Kapoor,Male,Mechanical,8.15,68.4,58.8,67.1,1,2,2,0,5,1,Placed,15.93
+STU202993,Bhavna Saxena,Female,Electronics & Comm,9.21,73.0,79.9,75.6,3,3,4,0,4,2,Placed,29.94
+STU202994,Priya Sharma,Other,Electrical & Electronics,5.69,36.0,37.7,65.2,0,1,0,0,4,0,Not Placed,0.0
+STU202995,Manish Choudhury,Female,Computer Science,9.74,84.0,89.3,87.9,4,4,4,0,3,3,Placed,42.05
+STU202996,Sakshi Sharma,Female,Electrical & Electronics,8.93,84.9,87.1,46.9,2,5,3,0,2,2,Placed,30.52
+STU202997,Yash Agarwal,Male,Electronics & Comm,7.46,61.7,65.9,84.2,1,4,1,0,1,3,Placed,19.05
+STU202998,Rahul Nair,Male,Electronics & Comm,9.51,79.6,99.0,49.8,4,6,4,0,1,3,Placed,39.39
+STU202999,Priya Kulkarni,Other,Information Technology,5.81,34.3,34.2,88.3,1,1,0,2,2,0,Not Placed,0.0
+STU203000,Rhea Sharma,Male,Computer Science,9.37,84.0,86.9,48.7,4,5,5,0,1,4,Placed,39.65
+STU203001,Siddharth Mishra,Female,Computer Science,8.53,71.4,72.6,73.7,2,3,2,0,2,2,Placed,26.77
+STU203002,Gaurav Nair,Male,Electronics & Comm,8.2,66.0,79.0,56.6,2,2,2,0,3,1,Placed,20.78
+STU203003,Sneha Kulkarni,Female,Information Technology,7.61,55.2,53.6,66.6,2,1,2,0,3,2,Placed,18.6
+STU203004,Pooja Mishra,Female,Computer Science,6.3,39.8,40.2,58.8,1,1,0,1,4,1,Not Placed,0.0
+STU203005,Varun Reddy,Male,Information Technology,7.91,72.4,73.0,67.8,1,4,3,1,2,2,Placed,21.98
+STU203006,Sakshi Kapoor,Other,Electronics & Comm,8.7,82.9,90.8,48.7,3,4,3,0,2,3,Placed,30.78
+STU203007,Sneha Iyer,Male,Computer Science,7.42,61.7,60.8,44.1,2,2,2,0,5,3,Placed,21.02
+STU203008,Siddharth Gupta,Female,Information Technology,6.64,57.3,,92.2,2,3,2,0,1,1,Placed,15.01
+STU203009,Pranay Joshi,Male,Electronics & Comm,7.14,44.0,60.6,69.8,1,2,2,0,2,1,Placed,6.87
+STU203010,Akhil Deshmukh,Male,Computer Science,6.57,36.8,65.6,73.2,2,1,1,0,3,1,Placed,8.69
+STU203011,Pranay Singh,Male,Electronics & Comm,8.22,75.2,71.2,66.7,2,3,2,0,4,2,Placed,23.75
+STU203012,Sanjay Agarwal,Other,Electrical & Electronics,6.99,49.8,38.4,73.2,0,2,0,0,3,2,Not Placed,0.0
+STU203013,Varun Saxena,Other,Computer Science,6.98,48.3,50.4,56.1,1,2,2,0,2,0,Placed,9.09
+STU203014,Nikhil Singh,Female,Electronics & Comm,6.63,43.0,51.8,75.7,1,1,2,0,3,1,Placed,5.84
+STU203015,Neha Joshi,Male,Computer Science,8.75,80.7,78.1,59.3,4,4,2,0,3,2,Placed,34.59
+STU203016,Rahul Kapoor,Other,Computer Science,7.53,57.9,51.1,76.5,2,2,2,0,2,2,Placed,17.33
+STU203017,Priya Agarwal,Other,Mechanical,8.58,72.8,73.7,88.1,2,2,3,0,1,2,Placed,25.73
+STU203018,Tanvi Bhat,Other,Information Technology,6.43,60.3,42.8,81.1,1,1,2,0,2,1,Placed,13.65
+STU203019,Nikhil Joshi,Other,Information Technology,9.73,92.6,86.4,66.2,2,4,5,0,5,2,Placed,35.88
+STU203020,Pranay Saxena,Male,Information Technology,8.75,86.7,84.7,75.8,3,4,3,0,3,2,Placed,34.85
+STU203021,Pooja Sharma,Other,Information Technology,8.12,67.2,63.0,92.0,2,4,3,0,1,2,Placed,23.08
+STU203022,Sakshi Saxena,Male,Electronics & Comm,8.34,74.9,57.6,86.0,4,4,,0,1,2,Placed,26.98
+STU203023,Sanjay Bhat,Female,Electronics & Comm,7.91,150.0,68.2,62.1,2,4,5,0,1,2,Placed,18.93
+STU203024,Ananya Mishra,Male,Electronics & Comm,6.43,48.2,51.1,75.0,0,2,2,0,1,1,Not Placed,0.0
+STU203025,Tanvi Mehta,Other,Computer Science,6.25,35.8,49.0,67.4,0,1,3,0,4,0,Not Placed,0.0
+STU203026,Deepa Ghosh,Other,Computer Science,8.18,68.0,81.7,76.3,3,3,3,0,3,2,Placed,26.66
+STU203027,Shreya Mishra,Female,Computer Science,6.95,59.3,54.9,66.6,2,2,2,0,0,2,Placed,17.06
+STU203028,Bhavna Choudhury,Other,Electronics & Comm,8.29,84.8,77.6,61.2,2,4,3,0,4,1,Placed,25.22
+STU203029,Isha Kapoor,Male,Electronics & Comm,6.26,46.4,38.5,73.7,1,2,1,2,2,1,Not Placed,0.0
+STU203030,Aarav Nair,Male,Mechanical,9.04,89.5,89.2,71.4,3,5,3,0,3,3,Placed,35.79
+STU203031,Siddharth Deshmukh,Male,Electrical & Electronics,8.21,70.5,70.9,69.5,3,4,4,0,4,2,Placed,26.39
+STU203032,Pooja Reddy,Male,Information Technology,7.66,58.4,66.5,44.6,2,2,2,0,1,1,Placed,16.4
+STU203033,Kavya Iyer,Male,Computer Science,7.36,56.5,67.4,58.5,2,2,1,0,4,2,Placed,18.58
+STU203034,Gaurav Mishra,Male,Computer Science,8.41,78.0,68.6,45.7,2,3,3,0,5,1,Placed,26.04
+STU203035,Akhil Saxena,Other,Computer Science,8.71,67.3,81.0,77.6,2,3,4,0,2,2,Placed,26.64
+STU203036,Neha Gupta,Male,Electronics & Comm,7.24,53.1,57.6,52.5,1,1,3,0,3,0,Placed,10.8
+STU203037,Tanvi Rao,Female,Information Technology,8.2,74.1,86.3,71.3,3,3,3,0,4,2,Placed,29.16
+STU203038,Siddharth Kulkarni,Male,Computer Science,6.65,36.6,52.2,70.3,1,2,2,1,3,0,Not Placed,0.0
+STU203039,Aditi Iyer,Female,Information Technology,6.1,39.6,51.8,53.5,1,1,0,2,4,0,Not Placed,0.0
+STU203040,Akhil Ghosh,Male,Electronics & Comm,5.85,34.3,30.7,48.4,0,1,1,0,4,0,Not Placed,0.0
+STU203041,Vikas Singh,Female,Mechanical,8.41,73.8,70.5,41.1,3,3,1,0,2,3,Placed,27.93
+STU203042,Yash Ghosh,Other,Computer Science,7.69,57.8,54.1,46.1,3,2,3,0,3,2,Placed,17.58
+STU203043,Bhavna Kulkarni,Other,Mechanical,7.26,62.4,76.0,41.3,2,2,2,0,3,1,Placed,17.15
+STU203044,Akhil Singh,Female,Electronics & Comm,6.3,37.9,43.7,51.0,0,1,1,0,3,0,Not Placed,0.0
+STU203045,Sneha Bhat,Male,Computer Science,8.77,75.5,77.0,76.9,3,2,4,0,1,1,Placed,26.55
+STU203046,Chetan Nair,Male,Computer Science,7.46,56.5,49.5,43.9,3,1,1,0,2,2,Placed,19.22
+STU203047,Deepa Verma,Female,Computer Science,9.15,86.3,90.3,44.4,3,5,3,0,4,3,Placed,36.4
+STU203048,Priya Ghosh,Other,Electrical & Electronics,6.17,50.9,,50.3,1,1,4,0,4,2,Placed,9.89
+STU203049,Priya Iyer,Female,Computer Science,9.82,86.8,86.2,48.9,4,5,4,0,4,3,Placed,40.91
+STU203050,Tanvi Sharma,Male,Computer Science,8.26,63.3,65.8,84.6,3,2,3,0,2,1,Placed,22.99
